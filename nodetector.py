@@ -1,5 +1,8 @@
 #! usr/bin/python3
 
+#created by : Mr1-D3CRYPT
+
+
 # script to detect if a given number has a phone number
 
 def check(nus):
